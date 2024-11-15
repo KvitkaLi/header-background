@@ -3,7 +3,7 @@ header{
 }
 .header__img{
     height: 800px;
-    background-image: url(/img/4428861.jpg);
+    background-image: url('/img/4428861.jpg');
     background-size: cover;
 }
 
